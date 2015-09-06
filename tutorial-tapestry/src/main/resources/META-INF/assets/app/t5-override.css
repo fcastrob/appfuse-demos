@@ -1,6 +1,0 @@
-/* Remove the 'Dismiss all' message */
-body [data-action='dismiss-all'] { 
-    display: none;
-}
-
-
